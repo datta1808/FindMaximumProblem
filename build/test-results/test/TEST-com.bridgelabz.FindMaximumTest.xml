@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.FindMaximumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-04T11:08:55" hostname="LAPTOP-OKMRMTOT" time="0.001">
+<testsuite name="com.bridgelabz.FindMaximumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-04T11:28:58" hostname="LAPTOP-OKMRMTOT" time="0.003">
   <properties/>
-  <testcase name="givenThirdFloatAsMaxNumber_ShouldReturnThirdFloatAsMaximum" classname="com.bridgelabz.FindMaximumTest" time="0.001"/>
+  <testcase name="givenThirdFloat_AsMaxNumber_ShouldReturn_ThirdFloat_AsMaximum" classname="com.bridgelabz.FindMaximumTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

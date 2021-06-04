@@ -41,4 +41,22 @@ public class FindMaximumTest {
         Float max3 = findMaximum.findFloatMaximum(7f, 23f, 40f);
         Assert.assertEquals((Float) 40f, max3);
     }
+
+    @Test
+    public void givenFirstLetterAsMaximum_ShouldReturnFirstLetterAsMaximum() {
+        String max2 = findMaximum.findStringMaximum("peach", "apple", "banana");
+        Assert.assertEquals("peach", max2);
+    }
+
+    @Test
+    public void givenSecondLetterAsMaximum_ShouldReturnSecondLetterAsMaximum() {
+        String max2 = findMaximum.findStringMaximum("apple", "peach", "banana");
+        Assert.assertEquals("peach", max2);
+    }
+
+    @Test
+    public void givenThirdLetterAsMaximum_ShouldReturnThirdLetterAsMaximum() {
+        String max2 = findMaximum.findStringMaximum("apple", "banana", "peach");
+        Assert.assertEquals("peach", max2);
+    }
 }
