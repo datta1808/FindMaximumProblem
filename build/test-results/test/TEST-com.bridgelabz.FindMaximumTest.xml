@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.FindMaximumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-04T10:21:55" hostname="LAPTOP-OKMRMTOT" time="0.003">
+  <properties/>
+  <testcase name="givenFirstNumberAsMaxNumber_ShouldReturn_FirstNumberAsMax" classname="com.bridgelabz.FindMaximumTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
