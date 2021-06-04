@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.FindMaximumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-04T11:28:58" hostname="LAPTOP-OKMRMTOT" time="0.003">
+<testsuite name="com.bridgelabz.FindMaximumTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-06-04T14:06:03" hostname="LAPTOP-OKMRMTOT" time="0.008">
   <properties/>
-  <testcase name="givenThirdFloat_AsMaxNumber_ShouldReturn_ThirdFloat_AsMaximum" classname="com.bridgelabz.FindMaximumTest" time="0.003"/>
+  <testcase name="givenThirdNumber_AsMaXNumber_ShouldReturnThirdNumber_AsMaximum" classname="com.bridgelabz.FindMaximumTest" time="0.002"/>
+  <testcase name="givenSecondLetterAsMaximum_ShouldReturnSecondLetterAsMaximum" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenSecondNumber_AsMaXNumber_ShouldReturn_SecondNumber_AsMaximum" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenSecondFloat_AsMaxNumber_ShouldReturn_SecondFloat_AsMaximum" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenFirstFloat_AsMaxNumber_ShouldReturn_FirstFloat_AsMaximum" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenThirdFloat_AsMaxNumber_ShouldReturn_ThirdFloat_AsMaximum" classname="com.bridgelabz.FindMaximumTest" time="0.001"/>
+  <testcase name="givenThirdLetterAsMaximum_ShouldReturnThirdLetterAsMaximum" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenFirstNumber_AsMaxNumber_ShouldReturn_FirstNumber_AsMaximum" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenFirstLetterAsMaximum_ShouldReturnFirstLetterAsMaximum" classname="com.bridgelabz.FindMaximumTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
