@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.FindMaximumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-06T19:13:39" hostname="LAPTOP-OKMRMTOT" time="0.002">
+<testsuite name="com.bridgelabz.FindMaximumTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-06-06T19:56:27" hostname="LAPTOP-OKMRMTOT" time="0.004">
   <properties/>
-  <testcase name="givenFloat_whenFirstFloatIsMax_ReturnSame" classname="com.bridgelabz.FindMaximumTest" time="0.002"/>
+  <testcase name="givenFloat_whenSecondFloatIsMax_ReturnSame" classname="com.bridgelabz.FindMaximumTest" time="0.001"/>
+  <testcase name="givenInteger_whenThirdIntegerIsMax_ReturnSame" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenFloat_whenFirstFloatIsMax_ReturnSame" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenMultipleInt_shouldReturn_maxInt" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenMultipleFloat_shouldReturn_maxFloat" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenFloat_whenThirdFloatIsMax_ReturnSame" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenIntegers_whenFirstIntegerIsMax_ReturnSame" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenIntegers_whenSecondIntegerIsMax_ReturnSame" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenString_whenThirdStringIsMax_ReturnSame" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenString_whenFirstStringIsMax_ReturnSame" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenString_whenSecondStringIsMax_ReturnSame" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
+  <testcase name="givenMultipleString_shouldReturn_maxString" classname="com.bridgelabz.FindMaximumTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
