@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-public class FindMaximum <T extends Comparable<T>>{
+public class FindMaximum <T extends Comparable<T>> {
 
     T[] values;
 
@@ -10,11 +10,18 @@ public class FindMaximum <T extends Comparable<T>>{
     }
 
     public T testMax() {
-        return findMaximum(values);
+        T maximum = findMaximum(values);
+        printMaximum(maximum);
+        return maximum;
+    }
+
+    public static <T> void printMaximum(T maximum) {
+        System.out.println("Maximum is: " + maximum);
     }
 
     @SafeVarargs
     public static <T extends Comparable<T>> T findMaximum(T... values) {
+
         T maximum  = values[0];   // assume x is initially the largest
 
         for(int i = 1; i < values.length; i++) {
